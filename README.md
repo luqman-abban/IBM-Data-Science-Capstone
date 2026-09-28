@@ -343,10 +343,4 @@ This project is for educational and portfolio purposes.
 ## Author
 
 **Luqman Abban**  
-Data Analyst | Ecommerce Data Specialist | Aspiring AI & Data Professional
-
-GitHub: `https://github.com/yourusername`
-
----
-
-### ⭐ If you found this project useful, consider giving it a star!
+Data Analyst & BI Specialist | Analytics, Dashboards & AI-Powered Solutions
